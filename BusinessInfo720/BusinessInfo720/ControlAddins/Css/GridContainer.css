@@ -1,0 +1,17 @@
+.gauge-container {
+  display: grid;
+  flex-direction: column; 
+  align-items: center;
+   /* Add margin for spacing */
+  grid-template-columns: 1fr 1fr 1fr;
+}
+
+p{
+  margin: 0px;
+  font-family: "Segoe UI", "Segoe WP", Segoe, device-segoe, Tahoma, Helvetica, Arial, sans-serif !important;
+  font-weight: normal !important;
+  font-style: normal !important;
+  text-transform: none !important;
+  font-size: 10.5pt !important;
+  color: #505C6D;
+}

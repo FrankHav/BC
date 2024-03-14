@@ -1,0 +1,609 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="BusinessInfo720">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 1670894655 - Field 3168444338 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Address</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BuisnessInfo720 - Field Address - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1670894655 - Field 714791889 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>City</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BuisnessInfo720 - Field City - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1670894655 - Field 415504711 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Id</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BuisnessInfo720 - Field Id - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1670894655 - Field 2818714647 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Postcode</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BuisnessInfo720 - Field Postcode - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1670894655 - Field 361748003 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>SearchCvr</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BuisnessInfo720 - Field SearchCvr - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1670894655 - Field 193665107 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>SearchName</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BuisnessInfo720 - Field SearchName - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2621420783 - Field 1101051165 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>BusinessCode</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BusinessTypeTable720 - Field BusinessCode - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2621420783 - Field 23891083 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>BusinessTypeName</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BusinessTypeTable720 - Field BusinessTypeName - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1773980339 - Field 2729231585 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>IndustryCode</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table IndustryTable720 - Field IndustryCode - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1773980339 - Field 1193616647 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>IndustryName</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table IndustryTable720 - Field IndustryName - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 492898319 - Field 2457945865 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>caseNumber</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RegnskabsTable720 - Field caseNumber - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 492898319 - Field 2148871950 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>currentAssets</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RegnskabsTable720 - Field currentAssets - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 492898319 - Field 3309971885 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>endDate</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RegnskabsTable720 - Field endDate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 492898319 - Field 962663767 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>equity</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RegnskabsTable720 - Field equity - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 492898319 - Field 2075874916 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>financialStatementLastChange</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RegnskabsTable720 - Field financialStatementLastChange - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 492898319 - Field 3025029604 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>financialStatementLastReport</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RegnskabsTable720 - Field financialStatementLastReport - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 492898319 - Field 68256330 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>financialYear</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RegnskabsTable720 - Field financialYear - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 492898319 - Field 1787842248 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>grossProfit</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RegnskabsTable720 - Field grossProfit - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 492898319 - Field 303585880 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>lastChange</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RegnskabsTable720 - Field lastChange - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 492898319 - Field 1683628889 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>liabilitiesAndEquity</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RegnskabsTable720 - Field liabilitiesAndEquity - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 492898319 - Field 513240825 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>pdfBase</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RegnskabsTable720 - Field pdfBase - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 492898319 - Field 3761399486 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>profitBeforeTax</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RegnskabsTable720 - Field profitBeforeTax - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 492898319 - Field 3530495855 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>profitLoss</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RegnskabsTable720 - Field profitLoss - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 492898319 - Field 731824261 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>profitLossOperatingActivities</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RegnskabsTable720 - Field profitLossOperatingActivities - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 492898319 - Field 2430667791 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>shorttermLiabilities</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RegnskabsTable720 - Field shorttermLiabilities - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 492898319 - Field 309497210 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Vis flere regnskaber</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RegnskabsTable720 - Field ShowMore - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 492898319 - Field 3818733960 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>startDate</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RegnskabsTable720 - Field startDate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 492898319 - Field 1495959549 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Vat</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RegnskabsTable720 - Field Vat - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2063950218 - Field 65135661 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>EquityBool</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SettingsTable720 - Field EquityBool - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2063950218 - Field 4176581230 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>GrossProfitBool</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SettingsTable720 - Field GrossProfitBool - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2063950218 - Field 415504711 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Id</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SettingsTable720 - Field Id - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2063950218 - Field 4169960848 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>PrfoitBeforeTaxBool</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SettingsTable720 - Field PrfoitBeforeTaxBool - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2063950218 - Field 959582558 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>StatusBool</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SettingsTable720 - Field StatusBool - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2063950218 - Field 1710288425 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ViesBool</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SettingsTable720 - Field ViesBool - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 936068483 - Field 3575596480 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>CheckedBy</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table WarningTable720 - Field CheckedBy - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 936068483 - Field 468980696 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Counter</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table WarningTable720 - Field Counter - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 936068483 - Field 1531936986 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>FirmaNavn</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table WarningTable720 - Field FirmaNavn - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 936068483 - Field 1655080127 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>IsChecked</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table WarningTable720 - Field IsChecked - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 936068483 - Field 513339096 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Status</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table WarningTable720 - Field Status - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 936068483 - Field 1495959549 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Vat</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table WarningTable720 - Field Vat - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2026731745 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Charts</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page BusinessChart720 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3132283359 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Business info720 Customer</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page BusinessInfo720 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3132283359 - Control 693086357 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Search</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page BusinessInfo720 - Control SerachVar - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 326739317 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Business info720 settings</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page BusinessInfoSettingsPage720 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 326739317 - Control 489403999 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Things to show on warrning page</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page BusinessInfoSettingsPage720 - Control Bools - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 690795646 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer list</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page BusinessInfoSubPage720 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 690795646 - Method 2400675204 - NamedType 2314079103" size-unit="char" translate="yes" xml:space="preserve">
+          <source></source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page BusinessInfoSubPage720 - Method CreateCustomer - NamedType text000</note>
+        </trans-unit>
+        <trans-unit id="Page 690795646 - Method 2400675204 - NamedType 2951775720" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Kunde oprettet</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page BusinessInfoSubPage720 - Method CreateCustomer - NamedType text001</note>
+        </trans-unit>
+        <trans-unit id="Page 690795646 - Control 2961552353 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page BusinessInfoSubPage720 - Control Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 690795646 - Control 617267791 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Vat</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page BusinessInfoSubPage720 - Control VAT Registration No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 690795646 - Action 282977183 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Opret kunde</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page BusinessInfoSubPage720 - Action OpretKunde - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3580166135 - Control 203798310 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source></source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RegnSkabFactBox720 - Control Upper - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3580166135 - Control 2457945865 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Casenumber</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RegnSkabFactBox720 - Control caseNumber - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3580166135 - Control 2075874916 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Last change</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RegnSkabFactBox720 - Control financialStatementLastChange - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3580166135 - Control 3025029604 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Last Report</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RegnSkabFactBox720 - Control financialStatementLastReport - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3580166135 - Control 68256330 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Financial Year</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RegnSkabFactBox720 - Control financialYear - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3580166135 - Control 309497210 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Show additional reports</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RegnSkabFactBox720 - Control ShowMore - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3426526447 - Control 4105281732 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source></source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ReportsFactBox720 - Control GroupName - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3426526447 - Action 1922284026 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Open PDF</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ReportsFactBox720 - Action OpenPdf - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3341464685 - Control 3309971885 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Year</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ReportsPage720 - Control endDate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3341464685 - Control 962663767 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Equity</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ReportsPage720 - Control equity - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3341464685 - Control 1787842248 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Gross Profit</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ReportsPage720 - Control grossProfit - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3341464685 - Control 3761399486 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Profits Before Taxes</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ReportsPage720 - Control profitBeforeTax - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3341464685 - Control 3831256428 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Annual report</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ReportsPage720 - Control factBox720 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3341464685 - Action 668070465 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source> Open Pdf</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ReportsPage720 - Action OpenPdfExt - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1615340091 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Business info720 Vendor</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VendorBusinessinfo720 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1615340091 - Control 693086357 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Search</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VendorBusinessinfo720 - Control SerachVar - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 507971250 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Vendor list</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VendorBusinessInfoSubpage720 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 507971250 - Method 2335178540 - NamedType 2314079103" size-unit="char" translate="yes" xml:space="preserve">
+          <source></source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VendorBusinessInfoSubpage720 - Method CreateVendor - NamedType text000</note>
+        </trans-unit>
+        <trans-unit id="Page 507971250 - Method 2335178540 - NamedType 2951775720" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Kunde oprettet</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VendorBusinessInfoSubpage720 - Method CreateVendor - NamedType text001</note>
+        </trans-unit>
+        <trans-unit id="Page 507971250 - Control 2961552353 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VendorBusinessInfoSubpage720 - Control Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 507971250 - Control 617267791 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Vat</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VendorBusinessInfoSubpage720 - Control VAT Registration No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 507971250 - Action 282977183 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Create vendor</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VendorBusinessInfoSubpage720 - Action OpretKunde - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 757302057 - Control 4116602487 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Business Status</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Warning720 - Control Stat1us - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 757302057 - Control 513339096 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Business Status</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Warning720 - Control Status - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2324874977 - Control 1251524111 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Warnings</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page WarningCuePage720 - Control WarningContainer - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 642691064 - Action 163806766 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 523354100">
+          <source>Update with BusinessInfo720</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CustomerCardExt720 - Action OpenPage720 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 642691064 - Control 3171061171 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 523354100">
+          <source>Financial chart</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CustomerCardExt720 - Control Chart720 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 642691064 - Control 2367390924 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 523354100">
+          <source>Finances</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CustomerCardExt720 - Control FactBox720 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 642691064 - Control 935676930 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 523354100">
+          <source>Business Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CustomerCardExt720 - Control businessCode720 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 642691064 - Control 1008902440 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 523354100">
+          <source>Business Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CustomerCardExt720 - Control businessName720 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 642691064 - Control 3267866873 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 523354100">
+          <source>Business Status</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CustomerCardExt720 - Control BusinessStatus720 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 642691064 - Control 3325783449 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 523354100">
+          <source>No Of Employees</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CustomerCardExt720 - Control Employee720 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 642691064 - Control 3057735950 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 523354100">
+          <source>Industry Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CustomerCardExt720 - Control IndustryCode720 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 642691064 - Control 1849675684 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 523354100">
+          <source>Industry Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CustomerCardExt720 - Control IndustryName720 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 642691064 - Control 4152949662 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 523354100">
+          <source>Last update with BusinessInfo720</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CustomerCardExt720 - Control LastUpdated720 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 642691064 - Control 1241929744 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 523354100">
+          <source>VIES</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CustomerCardExt720 - Control Vies720 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3708976414 - Action 3298278051 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2901867346">
+          <source>Business info720</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CustomerListExt720 - Action OpenBuisnessInfo720 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 46867536 - Method 4278699431 - NamedType 2314079103" size-unit="char" translate="yes" xml:space="preserve" al-object-target="PageExtension 46867536">
+          <source></source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension VendorCardExt720 - Method UpdateVendor - NamedType text000</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 46867536 - Method 4278699431 - NamedType 2951775720" size-unit="char" translate="yes" xml:space="preserve" al-object-target="PageExtension 46867536">
+          <source>Kunde oprettet</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension VendorCardExt720 - Method UpdateVendor - NamedType text001</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 46867536 - Control 3171061171 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4055858012">
+          <source>Financial chart</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension VendorCardExt720 - Control Chart720 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 46867536 - Control 2367390924 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4055858012">
+          <source>Finances</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension VendorCardExt720 - Control FactBox720 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 46867536 - Control 935676930 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4055858012">
+          <source>Business Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension VendorCardExt720 - Control businessCode720 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 46867536 - Control 1008902440 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4055858012">
+          <source>Business Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension VendorCardExt720 - Control businessName720 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 46867536 - Control 3267866873 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4055858012">
+          <source>Business Status</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension VendorCardExt720 - Control BusinessStatus720 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 46867536 - Control 3325783449 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4055858012">
+          <source>No Of Employees</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension VendorCardExt720 - Control Employee720 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 46867536 - Control 3057735950 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4055858012">
+          <source>Industry Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension VendorCardExt720 - Control IndustryCode720 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 46867536 - Control 1849675684 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4055858012">
+          <source>Industry Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension VendorCardExt720 - Control IndustryName720 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 46867536 - Control 4152949662 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4055858012">
+          <source>Last update with BusinessInfo720</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension VendorCardExt720 - Control LastUpdated720 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 46867536 - Control 1241929744 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4055858012">
+          <source>VIES</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension VendorCardExt720 - Control Vies720 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 426101782 - Action 3298278051 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4194195770">
+          <source>Buisness info720</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension VendorListExt720 - Action OpenBuisnessInfo720 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 589560378 - Field 935676930 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1994964448">
+          <source>businessCode720</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension CustomerTableExt720 - Field businessCode720 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 589560378 - Field 1008902440 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1994964448">
+          <source>businessName720</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension CustomerTableExt720 - Field businessName720 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 589560378 - Field 3267866873 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1994964448">
+          <source>Status</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension CustomerTableExt720 - Field BusinessStatus720 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 589560378 - Field 4231371727 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1994964448">
+          <source>CalcEquity720</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension CustomerTableExt720 - Field CalcEquity720 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 589560378 - Field 29418048 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1994964448">
+          <source>CalcGrossProfit720</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension CustomerTableExt720 - Field CalcGrossProfit720 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 589560378 - Field 3325783449 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1994964448">
+          <source>Employee720</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension CustomerTableExt720 - Field Employee720 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 589560378 - Field 3057735950 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1994964448">
+          <source>IndustryCode720</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension CustomerTableExt720 - Field IndustryCode720 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 589560378 - Field 1849675684 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1994964448">
+          <source>IndustryName720</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension CustomerTableExt720 - Field IndustryName720 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 589560378 - Field 4152949662 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1994964448">
+          <source>Last update with BusinessInfo720</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension CustomerTableExt720 - Field LastUpdated720 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 589560378 - Field 1241929744 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1994964448">
+          <source>Vies720</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension CustomerTableExt720 - Field Vies720 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 86435042 - Field 935676930 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1936001480">
+          <source>businessCode720</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension VendorTableExt720 - Field businessCode720 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 86435042 - Field 1008902440 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1936001480">
+          <source>businessName720</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension VendorTableExt720 - Field businessName720 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 86435042 - Field 3267866873 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1936001480">
+          <source>Status</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension VendorTableExt720 - Field BusinessStatus720 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 86435042 - Field 4231371727 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1936001480">
+          <source>CalcEquity720</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension VendorTableExt720 - Field CalcEquity720 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 86435042 - Field 3325783449 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1936001480">
+          <source>Employee720</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension VendorTableExt720 - Field Employee720 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 86435042 - Field 3057735950 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1936001480">
+          <source>IndustryCode720</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension VendorTableExt720 - Field IndustryCode720 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 86435042 - Field 1849675684 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1936001480">
+          <source>IndustryName720</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension VendorTableExt720 - Field IndustryName720 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 86435042 - Field 4152949662 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1936001480">
+          <source>Last update with BusinessInfo720</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension VendorTableExt720 - Field LastUpdated720 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 86435042 - Field 1241929744 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1936001480">
+          <source>Vies720</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension VendorTableExt720 - Field Vies720 - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

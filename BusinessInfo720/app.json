@@ -1,0 +1,41 @@
+{
+  "id": "8d4e9195-387a-450f-bf61-6d44ffc1159e",
+  "name": "BusinessInfo720",
+  "publisher": "Default publisher",
+  "version": "1.0.0.0",
+  "brief": "on720.com",
+  "description": "on720.com",
+  "privacyStatement": "https://www.on720.com/",
+  "EULA": "https://www.on720.com/",
+  "help": "https://www.on720.com/",
+  "url": "https://www.on720.com/",
+  "contextSensitiveHelpUrl": "https://www.on720.com/",
+  "logo": "Logo/Doggo.jpeg",
+  "dependencies": [
+    {
+      "id": "f69dbce9-e6fb-4a5c-9321-51bfc4cf5c4c",
+      "name": "CoreUI720",
+      "version": "1.0.0.0",
+      "publisher": "On720.com"
+    }
+  ],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "21.0.0.0",
+  "idRanges": [
+    {
+      "from": 6231700,
+      "to": 6231800
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "10.0",
+  "features": [
+    "NoImplicitWith",
+    "TranslationFile"
+  ]
+}
